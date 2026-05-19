@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "name": "awesome-ai-research-writing",
+  "description": "AI Research Writing Skills - Prompts and templates for academic paper writing",
+  "skills": [
+    {
+      "id": "ai-research-writing",
+      "name": "AI Research Writing",
+      "description": "Complete prompt library for academic paper writing, translation, polishing, and analysis",
+      "path": ".cursor/skills/ai-research-writing",
+      "enabled": true,
+      "version": "1.0.0",
+      "categories": [
+        "writing",
+        "academic",
+        "research",
+        "translation",
+        "editing"
+      ]
+    }
+  ],
+  "author": {
+    "name": "yyqz572711966-hue",
+    "url": "https://github.com/yyqz572711966-hue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyqz572711966-hue/awesome-ai-research-writing"
+  },
+  "license": "MIT",
+  "keywords": [
+    "academic-writing",
+    "paper-writing",
+    "ai-research",
+    "prompt-library",
+    "translation",
+    "polishing",
+    "latex",
+    "word",
+    "cursor",
+    "agent-skills"
+  ]
+}
